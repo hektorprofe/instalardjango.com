@@ -1,5 +1,5 @@
 # instalardjango.com
 
-Videotutoriales de instalación de Django en entornos virtuales.
+Videotutoriales para desarrollar con Django en entornos virtuales.
 
 http://www.instalardjango.com/
