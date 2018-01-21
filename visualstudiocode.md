@@ -7,5 +7,5 @@ permalink: /visualstudiocode/
 En este videotutorial te mostraré como puedes transformar VSC en un poderoso IDE para desarrollar proyectos en entornos virtuales.
 
 ```python
-print("Hola virtualenv")
+print("Hola vsc")
 ```
