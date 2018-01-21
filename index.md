@@ -1,1 +1,6 @@
-# instalardjango.com
+---
+title: instalardjango.com
+layout: default
+---
+ 
+Hello! instalardjango.com
