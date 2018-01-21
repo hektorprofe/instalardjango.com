@@ -1,5 +1,5 @@
 ---
-name: instalardjango.com (beta)
+title: instalardjango.com (beta)
 ---
 
 Portada
