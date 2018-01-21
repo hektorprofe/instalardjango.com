@@ -13,4 +13,4 @@ print("Hola virtualenv")
 
 ## ¿Necesitas un IDE para Python y Django?
 
-En [este manual](./visualstudiocode) encontrarás un videotutorial de configuración paso a paso para [Visual Studio Code](https://code.visualstudio.com/), mi entorno de trabajo recomendado.
+En [este manual](./visualstudiocode) encontrarás un videotutorial de configuración paso a paso para **Visual Studio Code**, mi entorno de trabajo recomendado.
