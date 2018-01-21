@@ -2,4 +2,4 @@
 
 Videotutoriales para desarrollar con Django en entornos virtuales.
 
-http://www.instalardjango.com/
+https://www.instalardjango.com/
