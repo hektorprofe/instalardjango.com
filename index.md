@@ -1,4 +1,5 @@
 ---
+layout: compress
 ---
 
 ## Creando entornos utilizando Conda
