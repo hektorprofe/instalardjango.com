@@ -12,3 +12,6 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 print("Hola conda")
 ```
 
+## ¿Necesitas un IDE para Python y Django?
+
+En [este manual](./visualstudiocode) encontrarás un videotutorial de configuración paso a paso para [Visual Studio Code](https://code.visualstudio.com/), mi entorno de trabajo recomendado.
