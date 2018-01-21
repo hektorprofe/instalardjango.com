@@ -3,7 +3,7 @@
 
 ## Creando entornos utilizando Conda
 
-Instalar Django en un entorno virtual nunca había sido tan fácil gracias a ***Conda***. Si tienes algún problema durante la instalación [ábreme un ticket](https://github.com/hcosta/instalardjango.com/issues target="_blank) y lo verificamos. {% comment %} pero si prefieres utilizar ***Virtualenv*** [aquí](virtualenv.md) encontrarás un manual.{% endcomment %}
+Instalar Django en un entorno virtual nunca había sido tan fácil gracias a ***Conda***. Si tienes algún problema durante la instalación [ábreme un ticket](https://github.com/hcosta/instalardjango.com/issues){:target="_blank"} y lo verificamos. {% comment %} pero si prefieres utilizar ***Virtualenv*** [aquí](virtualenv.md) encontrarás un manual.{% endcomment %}
 
 ### Selecciona tu sistema operativo
 
