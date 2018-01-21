@@ -1,5 +1,4 @@
 ---
-title: instalardjango.com (beta)
 ---
 
 ## Creando entornos utilizando Conda
