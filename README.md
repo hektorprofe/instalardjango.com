@@ -1,3 +1,3 @@
 # instalardjango.com
 
-Web con manuales de instalación de Django en entornos virtuales.
+Videotutoriales de instalación de Django en entornos virtuales.
