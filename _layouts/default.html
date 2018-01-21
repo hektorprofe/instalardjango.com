@@ -10,8 +10,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
@@ -19,7 +18,7 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h1>{{ page.name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
           <hr>
         </header>
@@ -29,8 +28,7 @@
         </section>
 
         <footer>
-          Web mantenida por <a href="https://www.hektorprofe.net/">Hektor Profe.</a><br>
-          Generada con <a href="https://pages.github.com">GitHub Pages</a>.
+          Web mantenida por <a href="https://www.hektorprofe.net/">Hektor Profe</a> y generada con <a href="https://pages.github.com">GitHub Pages.</a>
         </footer>
 
       </div>
