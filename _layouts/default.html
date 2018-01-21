@@ -20,24 +20,13 @@
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        </header>
-        <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Descargar .zip</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Descargar .tar.gz</span></a>
-          {% endif %}
-    {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>Ver en GitHub</span></a>
-    {% else %}
-          <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>Ver en GitHub</span></a>
-    {% endif %}
-        </section>
         <hr>
+        </header>
         <section id="main_content">
           {{ content }}
         </section>
         <footer>
-          Web mantenida por <a href="https://www.hektorprofe.net/">Hektor Profe</a> y generada con <a href="https://pages.github.com">GitHub Pages.</a>
+          <a href="https://github.com/hcosta/instalardjango.com">Ver en Github</a>. Web mantenida por <a href="https://www.hektorprofe.net/">Hektor Profe</a> y generada con <a href="https://pages.github.com">GitHub Pages.</a>
         </footer>
 
       </div>
