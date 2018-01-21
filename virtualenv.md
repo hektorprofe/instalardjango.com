@@ -1,4 +1,5 @@
 ---
+title: instalardjango.com (beta)
 permalink: /virtualenv/
 ---
 
