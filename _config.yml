@@ -1,7 +1,16 @@
-title: "instalardjango.com"
+# Site settings
+title:       "instalardjango.com"
+email:       "hola@hektorprofe.net"
+author:      "Hektor Profe."
+description: "Videotutoriales para desarrollar con Django en entornos virtuales. "
+baseurl:     "/"
+url:         "https://www.instalardjango.com"
+
+# Theme settings
 theme: jekyll-theme-cayman
 show_downloads: false
 
+# Compress settings
 compress_html:
   clippings: all
   comments:  ["<!-- ", " -->"]
