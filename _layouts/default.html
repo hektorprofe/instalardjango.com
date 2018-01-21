@@ -20,7 +20,6 @@
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-          <hr>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
@@ -33,11 +32,10 @@
           <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>Ver en GitHub</span></a>
     {% endif %}
         </section>
-        
+        <hr>
         <section id="main_content">
           {{ content }}
         </section>
-
         <footer>
           Web mantenida por <a href="https://www.hektorprofe.net/">Hektor Profe</a> y generada con <a href="https://pages.github.com">GitHub Pages.</a>
         </footer>
