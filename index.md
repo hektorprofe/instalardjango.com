@@ -1,8 +1,6 @@
 ---
 ---
 
-Portada
-
 ```python
-print("Hola mundo")  # Prueba de coloreado
+print("Hola mundo")
 ```
