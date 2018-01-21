@@ -2,7 +2,7 @@
 permalink: /virtualenv/
 ---
 
-## Creando entornos utilizando Virtualenv
+## Creando entornos utilizando Virtualenv Wrapper
 
 ***Virtualenvwrapper*** es la forma clásica de manejar entornos virtuales. Si prefieres algo más simple te recomiendo ***Conda*** tal como explico [aquí](../).
 
