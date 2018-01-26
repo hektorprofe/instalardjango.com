@@ -2,7 +2,7 @@
 description: Videotutoriales de instalación y creación de entornos virtuales vía Conda para instalar Django Framework fácilmente en Windows, GNU/Linux y Mac OS X.
 ---
 
-## Cómo instalar Django fácilmente en entorno virtual vía Conda
+## Instalar Django fácilmente en entorno virtual Conda
 
 Instalar Django en un entorno virtual nunca había sido tan fácil gracias a ***Conda***, un gestor de paquetes y entornos para multitud de lenguajes (Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN). En este videotutorial te enseñaré a instalar conda con ***Miniconda***, a crear tu primer entorno virtual y a instalar Django de una forma cómoda y sencilla. 
 
