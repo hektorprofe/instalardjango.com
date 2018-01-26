@@ -14,3 +14,7 @@ Si tienes algún problema durante la configuración [ábreme un ticket](https://
 ```python
 print("Hola conda")
 ```
+
+## ¿Necesitas instalar Django?
+
+[Aquí](/) encontrarás un videotutorial de instalación de Django utilizando **Conda**, la forma más fácil de manejar entornos virtuales con Python.
