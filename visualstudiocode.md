@@ -1,6 +1,6 @@
 ---
 permalink: /visualstudiocode/
-description: Prueba de descripción
+description: Videotutoriales de instalación y configuración del editor Visual Studio Code para desarrollar con Python y Django Framework.
 ---
 
 ## Cómo instalar y configurar Visual Studio Code para Django
