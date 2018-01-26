@@ -17,4 +17,4 @@ print("Hola conda")
 
 ## ¿Necesitas instalar Django?
 
-[Aquí](/) encontrarás un videotutorial de instalación de Django utilizando **Conda**, la forma más fácil de manejar entornos virtuales con Python.
+[Aquí](/) encontrarás un videotutorial para instalar Django utilizando **Conda**, la forma más sencilla de gestionar entornos virtuales con Python.
