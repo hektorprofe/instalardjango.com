@@ -1,5 +1,6 @@
 ---
 permalink: /visualstudiocode/
+description: Prueba de descripción
 ---
 
 ## Cómo instalar y configurar Visual Studio Code para Django
