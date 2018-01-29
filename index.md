@@ -8,6 +8,8 @@ Instalar Django en un entorno virtual nunca había sido tan fácil gracias a ***
 
 Si tienes algún problema durante la instalación [ábreme un ticket](https://github.com/hcosta/instalardjango.com/issues){:target="_blank"} y lo verificamos. {% comment %} pero si prefieres utilizar ***Virtualenv*** [aquí](virtualenv.md) encontrarás un manual.{% endcomment %}
 
+***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
+
 ### Selecciona tu sistema operativo
 
 ```python
