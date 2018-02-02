@@ -18,7 +18,6 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
   <img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" />
   <img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" />
 </div>
-
 ### Windows 7
 
 ```python
