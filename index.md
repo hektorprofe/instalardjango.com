@@ -18,4 +18,4 @@ print("Hola conda")
 
 ## ¿Necesitas un IDE para Python y Django?
 
-[Aquí](visualstudiocode.md) encontrarás un videotutorial de configuración paso a paso para **Visual Studio Code**, mi entorno de trabajo recomendado.
+[Aquí encontrarás](visualstudiocode.md) un videotutorial de configuración paso a paso para **Visual Studio Code**, mi entorno de trabajo recomendado.
