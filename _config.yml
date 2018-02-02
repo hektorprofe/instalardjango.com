@@ -2,7 +2,7 @@
 title:       "instalardjango.com"
 email:       "hola@hektorprofe.net"
 author:      "Hektor Profe."
-description: "Videotutoriales para desarrollar con Django en entornos virtuales. "
+description: "Tutoriales para desarrollar con Django en entornos virtuales. "
 baseurl:     "/"
 url:         "https://www.instalardjango.com"
 
