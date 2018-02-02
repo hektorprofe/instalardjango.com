@@ -22,25 +22,25 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### Windows 7
 
 ```python
-print("Hola conda")
+print("Videotutorial pendiente de grabar")
 ```
 
 ### Windows 10
 
 ```python
-print("Hola conda")
+print("Videotutorial pendiente de grabar")
 ```
 
 ### MacOS
 
 ```python
-print("Hola conda")
+print("Videotutorial pendiente de grabar")
 ```
 
 ### GNU/Linux
 
 ```python
-print("Hola conda")
+print("Videotutorial pendiente de grabar")
 ```
 
 ## ¿Necesitas un IDE para Python y Django?
