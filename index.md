@@ -10,7 +10,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-### Selecciona tu sistema operativo
+## Selecciona tu sistema operativo
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/Logo_Windows_7.png' | relative_url }}" /> 
@@ -18,6 +18,26 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
   <img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" />
   <img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" />
 </div>
+
+### Windows 7
+
+```python
+print("Hola conda")
+```
+
+### Windows 10
+
+```python
+print("Hola conda")
+```
+
+### MacOS
+
+```python
+print("Hola conda")
+```
+
+### GNU/Linux
 
 ```python
 print("Hola conda")
