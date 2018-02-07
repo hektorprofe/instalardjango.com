@@ -18,8 +18,8 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
   <a href="#mac"><img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" /></a>
   <a href="#linux"><img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" /></a>
 </div>
-
-### Windows 7 <a name="win7"></a>
+<a name="win7"></a>
+### Windows 7
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -45,8 +45,8 @@ activate py36
 # Desactivar el entorno virtual
 (py36) deactivate
 ```
-
-### Windows 10 <a name="win10"></a>
+<a name="win10"></a>
+### Windows 10 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254713961' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -72,8 +72,8 @@ activate py36
 # Desactivar el entorno virtual
 (py36) deactivate
 ```
-
-### MacOS X <a name="mac"></a>
+<a name="mac"></a>
+### MacOS X 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254727538' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -105,8 +105,8 @@ source activate py36
 # Desactivar el entorno virtual
 (py36) source deactivate
 ```
-
-### GNU/Linux <a name="linux"></a>
+<a name="linux"></a>
+### GNU/Linux 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
