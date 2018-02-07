@@ -20,7 +20,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 </div>
 
 ### Windows 7
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/254697320' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
 ```python
