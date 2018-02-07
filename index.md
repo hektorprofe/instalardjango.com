@@ -21,6 +21,9 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ### Windows 7
 
+<iframe src="https://player.vimeo.com/video/254697320" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 ```python
 print("Videotutorial pendiente de grabar")
 ```
