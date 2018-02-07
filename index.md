@@ -17,8 +17,8 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
   <a href="#win10"><img src="{{ '/assets/img/Logo_Windows_10.png' | relative_url }}" /></a>
   <a href="#mac"><img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" /></a>
   <a href="#linux"><img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" /></a>
-</div>
-<a name="win7"></a>
+</div><a name="win7"></a>
+
 ### Windows 7
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
