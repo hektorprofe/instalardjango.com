@@ -25,7 +25,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### Windows 10
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254713961' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-### MacOS
+### MacOS X
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254727538' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 ### GNU/Linux
