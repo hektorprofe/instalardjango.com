@@ -13,13 +13,13 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ## Selecciona tu sistema operativo
 
 <div style="text-align:center;">
-  <img src="{{ '/assets/img/Logo_Windows_7.png' | relative_url }}" /> 
+  [<img src="{{ '/assets/img/Logo_Windows_7.png' | relative_url }}" />](#win7)
   <img src="{{ '/assets/img/Logo_Windows_10.png' | relative_url }}" />
   <img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" />
   <img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" />
 </div>
 
-### Windows 7
+### Windows 7 <a name="win7"></a>
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -46,7 +46,7 @@ activate py36
 (py36) deactivate
 ```
 
-### Windows 10
+### Windows 10 <a name="win10"></a>
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254713961' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -73,7 +73,7 @@ activate py36
 (py36) deactivate
 ```
 
-### MacOS X
+### MacOS X <a name="mac"></a>
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254727538' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
@@ -106,7 +106,7 @@ source activate py36
 (py36) source deactivate
 ```
 
-### GNU/Linux
+### GNU/Linux <a name="linux"></a>
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 #### Chuleta de comandos
