@@ -13,10 +13,10 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ## Selecciona tu sistema operativo
 
 <div style="text-align:center;">
-  [<img src="{{ '/assets/img/Logo_Windows_7.png' | relative_url }}" />](#win7)
-  <img src="{{ '/assets/img/Logo_Windows_10.png' | relative_url }}" />
-  <img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" />
-  <img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" />
+  <a href="#win7"><img src="{{ '/assets/img/Logo_Windows_7.png' | relative_url }}" /></a>
+  <a href="#win10"><img src="{{ '/assets/img/Logo_Windows_10.png' | relative_url }}" /></a>
+  <a href="#mac"><img src="{{ '/assets/img/Logo_MacOS.png' | relative_url }}" /></a>
+  <a href="#linux"><img src="{{ '/assets/img/Logo_Linux.png' | relative_url }}" /></a>
 </div>
 
 ### Windows 7 <a name="win7"></a>
