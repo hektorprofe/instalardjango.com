@@ -22,7 +22,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### Windows 7
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-#### Chuleta de comandos
+#### Chuleta de comandos en Windows 7
 ```bash
 # Consultar la versión de Python por defecto
 python -V
@@ -49,7 +49,7 @@ activate py36
 ### Windows 10 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254713961' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-#### Chuleta de comandos
+#### Chuleta de comandos en Windows 10
 ```bash
 # Consultar la versión de Python por defecto
 python -V
@@ -76,7 +76,7 @@ activate py36
 ### MacOS X 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254727538' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-#### Chuleta de comandos
+#### Chuleta de comandos en MacOS X 
 ```bash
 # Consultar la versión de Python por defecto
 python -V
@@ -109,7 +109,7 @@ source activate py36
 ### GNU/Linux 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-#### Chuleta de comandos
+#### Chuleta de comandos en GNU/Linux
 ```bash
 # Consultar la versión de Python por defecto
 python -V
