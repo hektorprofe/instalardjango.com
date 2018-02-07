@@ -35,6 +35,9 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 # Consultar la versión de Python por defecto
 python -V
 
+# Instalar un script bash
+sh ./ruta/al/script.sh
+
 # Inyectar la nueva configuración en el .bashrc
 source ~/.bashrc
 
