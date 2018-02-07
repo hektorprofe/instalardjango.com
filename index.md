@@ -31,8 +31,27 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### GNU/Linux
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-```python
-print("Videotutorial pendiente de grabar")
+```bash
+# Consultar la versión de Python por defecto
+python -V
+
+# Inyectar la nueva configuración en el .bashrc
+source ~/.bashrc
+
+# Crear entorno Conda vacío con Python 3.6
+conda create -n py36 python=3.6
+
+# Activar el entorno virtual
+source activate py36
+
+# Desactivar el entorno virtual
+source deactivate
+
+# Instalar Django
+pip install django
+
+# Desinstalar Django
+pip uninstall django
 ```
 
 ## ¿Necesitas un IDE para Python y Django?
