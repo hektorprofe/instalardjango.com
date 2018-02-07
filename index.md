@@ -31,6 +31,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### GNU/Linux
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+#### Chuleta
 ```bash
 # Consultar la versión de Python por defecto
 python -V
