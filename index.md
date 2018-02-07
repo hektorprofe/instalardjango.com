@@ -20,9 +20,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 </div>
 
 ### Windows 7
-
-<iframe src="https://player.vimeo.com/video/254697320" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/254697320" width="100%" zframeborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ```python
 print("Videotutorial pendiente de grabar")
