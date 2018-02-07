@@ -39,6 +39,9 @@ activate py36
 # Instalar Django en el entorno virtual
 (py36) pip install django
 
+# Crear un proyecto de Django
+(py36) django-admin startproject proyecto
+
 # Desinstalar Django del entorno virtual
 (py36) pip uninstall django
 
@@ -65,6 +68,9 @@ activate py36
 
 # Instalar Django en el entorno virtual
 (py36) pip install django
+
+# Crear un proyecto de Django
+(py36) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
 (py36) pip uninstall django
@@ -99,6 +105,9 @@ source activate py36
 # Instalar Django en el entorno virtual
 (py36) pip install django
 
+# Crear un proyecto de Django
+(py36) django-admin startproject proyecto
+
 # Desinstalar Django del entorno virtual
 (py36) pip uninstall django
 
@@ -131,6 +140,9 @@ source activate py36
 
 # Instalar Django en el entorno virtual
 (py36) pip install django
+
+# Crear un proyecto de Django
+(py36) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
 (py36) pip uninstall django
