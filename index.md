@@ -22,16 +22,94 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 ### Windows 7
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254702022' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+#### Chuleta de comandos
+```bash
+# Consultar la versión de Python por defecto
+python -V
+
+# Crear entorno Conda vacío con Python 3.6
+conda create -n py36 python=3.6
+
+# Activar el entorno virtual
+activate py36
+
+# Listar los paquetes instalados en el entorno virtual
+(py36) pip list
+
+# Instalar Django en el entorno virtual
+(py36) pip install django
+
+# Desinstalar Django del entorno virtual
+(py36) pip uninstall django
+
+# Desactivar el entorno virtual
+(py36) deactivate
+```
+
 ### Windows 10
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254713961' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+#### Chuleta de comandos
+```bash
+# Consultar la versión de Python por defecto
+python -V
+
+# Crear entorno Conda vacío con Python 3.6
+conda create -n py36 python=3.6
+
+# Activar el entorno virtual
+activate py36
+
+# Listar los paquetes instalados en el entorno virtual
+(py36) pip list
+
+# Instalar Django en el entorno virtual
+(py36) pip install django
+
+# Desinstalar Django del entorno virtual
+(py36) pip uninstall django
+
+# Desactivar el entorno virtual
+(py36) deactivate
+```
 
 ### MacOS X
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254727538' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+#### Chuleta de comandos
+```bash
+# Consultar la versión de Python por defecto
+python -V
+
+# Instalar un script bash del directorio actual
+sh ./script.sh
+
+# Inyectar la nueva configuración en el .bash_profile
+source ~/.bash_profile
+
+# Crear entorno Conda vacío con Python 3.6
+conda create -n py36 python=3.6
+
+# Activar el entorno virtual
+source activate py36
+
+# Listar los paquetes instalados en el entorno virtual
+(py36) pip list
+
+# Instalar Django en el entorno virtual
+(py36) pip install django
+
+# Desinstalar Django del entorno virtual
+(py36) pip uninstall django
+
+# Desactivar el entorno virtual
+(py36) source deactivate
+```
+
 ### GNU/Linux
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254740303' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-#### Chuleta
+#### Chuleta de comandos
 ```bash
 # Consultar la versión de Python por defecto
 python -V
@@ -48,14 +126,17 @@ conda create -n py36 python=3.6
 # Activar el entorno virtual
 source activate py36
 
+# Listar los paquetes instalados en el entorno virtual
+(py36) pip list
+
+# Instalar Django en el entorno virtual
+(py36) pip install django
+
+# Desinstalar Django del entorno virtual
+(py36) pip uninstall django
+
 # Desactivar el entorno virtual
-source deactivate
-
-# Instalar Django
-pip install django
-
-# Desinstalar Django
-pip uninstall django
+(py36) source deactivate
 ```
 
 ## ¿Necesitas un IDE para Python y Django?
