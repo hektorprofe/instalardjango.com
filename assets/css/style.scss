@@ -14,15 +14,51 @@ a, p , span.site-footer-credits{
     font-family: 'Roboto', sans-serif !important;
 }
 
-h1, h2, h3, h4, h5 {
+body {
+    background-color: #fff;
+}
+
+h1 {
     font-family: 'Agency FB', sans-serif !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 4rem;
 }
 
-h2, h3, h4, h5 {
-    color: #0092ca !important;
-    font-weight: bold !important;
+h2{
+    font-family: 'Agency FB', sans-serif !important;
+    color: #222831 !important;
+    font-size: 2.5rem;
 }
 
-h1, h2.project-tagline{
-	color: #eeeeee !important;
+h3{
+    font-family: 'Agency FB', sans-serif !important;
+    color: #222831 !important;
+    font-size: 2rem;
+}
+
+h4{
+    font-family: 'Agency FB', sans-serif !important;
+    color: #222831 !important;
+    font-size: 1.5rem;
+}
+
+h2.project-tagline{
+    font-size: 2rem !important;
+    color: #ffffff !important;
+    margin-top: .25rem !important;
+    margin-bottom: 2.15rem !important;
+}
+
+p{
+    color: #393e46 !important;
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #222831;
+    background-image: none;
+    padding-top: 3rem !important;
+    padding-bottom: 4rem !important;
 }
