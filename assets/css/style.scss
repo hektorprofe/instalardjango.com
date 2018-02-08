@@ -10,10 +10,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-html {
+p {
     font-family: 'Roboto', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5 {
     font-family: 'Agency FB', sans-serif !important;
+}
+
+h2, h3, h4, h5 {
+    color: #0092ca;
+    font-weight: bold;
 }
