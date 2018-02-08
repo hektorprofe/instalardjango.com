@@ -10,7 +10,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-p {
+a, p , span.site-footer-credits{
     font-family: 'Roboto', sans-serif !important;
 }
 
@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5 {
 }
 
 h2, h3, h4, h5 {
-    color: #0092ca;
-    font-weight: bold;
+    color: #0092ca !important;
+    font-weight: bold !important;
+}
+
+h1, h2.project-tagline{
+	color: #eeeeee !important;
 }
