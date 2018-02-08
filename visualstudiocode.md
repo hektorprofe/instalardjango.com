@@ -3,7 +3,7 @@ permalink: /visualstudiocode/
 description: Videotutoriales de instalación y configuración del editor Visual Studio Code para desarrollar con Python y Django Framework en Windows, GNU/Linux y Mac OS X.
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 1rem; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-## Utilizar Django en entornos Conda en Visual Studio Code
+## Utilizar Django en entornos Conda y Visual Studio Code
 
 Para el momento de escribir estas líneas llevo más o menos un año utilizando VSC y debo decir que estoy encantado. Su comunidad no hace más que crecer y cada vez más programadores Python se decantan por este editor. En este videotutorial te mostraré como puedes transformar VSC en un poderoso IDE para desarrollar proyectos en entornos virtuales con Python y Django.
 
