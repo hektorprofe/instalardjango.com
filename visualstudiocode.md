@@ -19,11 +19,11 @@ Si tienes algún problema durante la configuración [ábreme un ticket](https://
 </div><a name="win7"></a>
 
 ### Windows 7
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/254886659' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/254886581' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <a name="win10"></a>
 ### Windows 10
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/254886581' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/254886659' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <a name="mac"></a>
 ### MacOS
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254886526' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
