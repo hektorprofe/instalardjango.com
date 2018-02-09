@@ -2,12 +2,11 @@
 ---
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
-@font-face{
-    font-family:"agencyr";
-    src:url("../fonts/agencyr.eot");
-    src:url("../fonts/agencyr.eot?#iefix") format("embedded-opentype"),url("../fonts/agencyr.woff") format("woff"),url("../fonts/agencyr.woff2") format("woff2"),url("../fonts/agencyr.ttf") format("truetype"),url("../fonts/agencyr.svg#agencyr") format("svg");
-    font-weight:normal;
-    font-style:normal
+@font-face {
+  font-family: 'Agency-FB';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Agency-FB'), local('Agency-FB-Regular'), url(https://www.instalardjango.com/assets/agencyr.woff2) format('woff2');
 }
 
 @import url("https://fonts.googleapis.com/css?family=Roboto");
@@ -665,26 +664,26 @@ body{
     background-color:#fff
 }
 h1{
-    font-family:'Agency FB', sans-serif !important;
+    font-family:'Agency-FB', sans-serif !important;
     padding:0 !important;
     margin:0 !important;
     font-size:4rem;
     font-weight:bold !important
 }
 h2{
-    font-family:'Agency FB', sans-serif !important;
+    font-family:'Agency-FB', sans-serif !important;
     color:#222831 !important;
     font-size:2.5rem;
     font-weight:bold !important
 }
 h3{
-    font-family:'Agency FB', sans-serif !important;
+    font-family:'Agency-FB', sans-serif !important;
     color:#222831 !important;
     font-size:2rem;
     font-weight:bold !important
 }
 h4{
-    font-family:'Agency FB', sans-serif !important;
+    font-family:'Agency-FB', sans-serif !important;
     color:#222831 !important;
     font-size:1.5rem;
     font-weight:bold !important
