@@ -5,7 +5,8 @@
 
 @font-face {
     font-family:"AgencyFBRegular";
-    src: url("/assets/fonts/agencyr.ttf")
+    src: url('/assets/fonts/agencyr.eot');
+    src: local('AgencyFBRegular'), url('/assets/fonts/agencyr.woff') format('woff'), url('/assets/fonts/agencyr.ttf') format('truetype');
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
