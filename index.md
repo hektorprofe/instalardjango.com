@@ -37,7 +37,7 @@ activate py36
 (py36) pip list
 
 # Instalar Django en el entorno virtual
-(py36) pip install django
+(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
 (py36) django-admin startproject proyecto
@@ -67,7 +67,7 @@ activate py36
 (py36) pip list
 
 # Instalar Django en el entorno virtual
-(py36) pip install django
+(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
 (py36) django-admin startproject proyecto
@@ -103,7 +103,7 @@ source activate py36
 (py36) pip list
 
 # Instalar Django en el entorno virtual
-(py36) pip install django
+(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
 (py36) django-admin startproject proyecto
@@ -139,7 +139,7 @@ source activate py36
 (py36) pip list
 
 # Instalar Django en el entorno virtual
-(py36) pip install django
+(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
 (py36) django-admin startproject proyecto
