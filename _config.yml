@@ -9,7 +9,6 @@ url:         "https://www.instalardjango.com"
 # Theme settings
 theme: jekyll-theme-cayman
 show_downloads: false
-google_analytics: UA-113448421-1
 
 # Compress settings
 compress_html:
