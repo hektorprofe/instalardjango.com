@@ -19,6 +19,8 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 [Miniconda3-4.5.4-Windows-x86_64.exe](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86_64.exe)
 
+#### MAC
+
 [Miniconda3-4.5.4-MacOSX-x86_64.pkg](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.pkg)
 
 [Miniconda3-4.5.4-MacOSX-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.sh)
@@ -28,8 +30,6 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 [Miniconda3-4.5.4-Linux-x86.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86.sh)
 
 [Miniconda3-4.5.4-Linux-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86_64.sh)
-
-#### MAC
 
  </div>
 
