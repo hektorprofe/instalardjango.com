@@ -10,7 +10,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: DESPUÉS DE CREAR EL ENTORNO VIRTUAL HACED DOWNGRADE A SQLITE 3.25.3 PORQUE LA 3.26 ESTÁ BUGEADA. INSTRUCCIONES EN LAS CHULETAS DEBAJO DE CADA MÉTODO.</div>
+<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: HAY UN BUG CON SQLITE 3.26, HAY QUE CREAR EL ENTORNO DIRECTAMENTE CON LA VERSIÓN 3.25.3 TAL COMO OS PONGO EN LAS CHULETAS.</div>
 
 ## Selecciona tu sistema operativo
 
@@ -30,17 +30,13 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 python -V
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n django2 python=3.6
+conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
 activate django2
 
 # Listar los paquetes instalados en el entorno virtual
 (django2) pip list
-
-# DOWNGRADE A LA VERSIÓN DE CONDA 3.25.3 PARA EVITAR EL BUG DE SQLITE 3.26
-(django2) conda uninstall sqlite
-(django2) conda install sqlite==3.25.3
 
 # Instalar Django en el entorno virtual
 (django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
@@ -64,7 +60,7 @@ activate django2
 python -V
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n django2 python=3.6
+conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
 activate django2
@@ -104,7 +100,7 @@ sh ./script.sh
 source ~/.bash_profile
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n django2 python=3.6
+conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
 source activate django2
