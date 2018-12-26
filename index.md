@@ -10,7 +10,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-<div style="background:lightred;padding:15px;font-size:20px">IMPORTANTE: INSTALAD LA VERSIÓN DE MINICONDA 4.5.4 PARA EVITAR EL RECIENTE BUG DE SQLITE QUE NO DEJA MANEJAR LA BASE DE DATOS, ENLACES AQUÍ:</div>
+<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: INSTALAD LA VERSIÓN DE MINICONDA 4.5.4 PARA EVITAR EL RECIENTE BUG DE SQLITE QUE NO DEJA MANEJAR LA BASE DE DATOS, ENLACES AQUÍ:</div>
 <div>
 
 #### Windows
