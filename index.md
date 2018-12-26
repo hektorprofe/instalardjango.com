@@ -10,25 +10,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: INSTALAD LA VERSIÓN DE MINICONDA 4.5.4 PARA EVITAR EL RECIENTE BUG DE SQLITE QUE NO DEJA MANEJAR LA BASE DE DATOS, ENLACES AQUÍ:</div>
-
-#### Windows
-
-[Miniconda3-4.5.4-Windows-x86.exe](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86.exe){:target="_blank"}
-
-[Miniconda3-4.5.4-Windows-x86_64.exe](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86_64.exe){:target="_blank"}
-
-#### MAC
-
-[Miniconda3-4.5.4-MacOSX-x86_64.pkg](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.pkg){:target="_blank"}
-
-[Miniconda3-4.5.4-MacOSX-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.sh){:target="_blank"}
-
-#### Linux
-
-[Miniconda3-4.5.4-Linux-x86.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86.sh){:target="_blank"}
-
-[Miniconda3-4.5.4-Linux-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86_64.sh){:target="_blank"}
+<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: DESPUÉS DE CREAR EL ENTORNO VIRTUAL HACED DOWNGRADE A SQLITE 3.25.3 PORQUE LA 3.26 ESTÁ BUGEADA. INSTRUCCIONES DEBAJO DE CADA MÉTODO.</div>
 
 ## Selecciona tu sistema operativo
 
@@ -48,25 +30,29 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 python -V
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n py36 python=3.6
+conda create -n django2 python=3.6
 
 # Activar el entorno virtual
-activate py36
+activate django2
 
 # Listar los paquetes instalados en el entorno virtual
-(py36) pip list
+(django2) pip list
+
+# DOWNGRADE A LA VERSIÓN DE CONDA 3.25.3 PARA EVITAR EL BUG DE SQLITE 3.26
+(django2) conda uninstall sqlite
+(django2) conda install sqlite==3.25.3
 
 # Instalar Django en el entorno virtual
-(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
+(django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
-(py36) django-admin startproject proyecto
+(django2) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
-(py36) pip uninstall django
+(django2) pip uninstall django
 
 # Desactivar el entorno virtual
-(py36) deactivate
+(django2) deactivate
 ```
 <a name="win10"></a>
 ### Windows 10 
@@ -78,25 +64,25 @@ activate py36
 python -V
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n py36 python=3.6
+conda create -n django2 python=3.6
 
 # Activar el entorno virtual
-activate py36
+activate django2
 
 # Listar los paquetes instalados en el entorno virtual
-(py36) pip list
+(django2) pip list
 
 # Instalar Django en el entorno virtual
-(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
+(django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
-(py36) django-admin startproject proyecto
+(django2) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
-(py36) pip uninstall django
+(django2) pip uninstall django
 
 # Desactivar el entorno virtual
-(py36) deactivate
+(django2) deactivate
 ```
 <a name="mac"></a>
 ### MacOS X 
@@ -114,25 +100,29 @@ sh ./script.sh
 source ~/.bash_profile
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n py36 python=3.6
+conda create -n django2 python=3.6
 
 # Activar el entorno virtual
-source activate py36
+source activate django2
 
 # Listar los paquetes instalados en el entorno virtual
-(py36) pip list
+(django2) pip list
+
+# DOWNGRADE A LA VERSIÓN DE CONDA 3.25.3 PARA EVITAR EL BUG DE SQLITE 3.26
+(django2) conda uninstall sqlite
+(django2) conda install sqlite==3.25.3
 
 # Instalar Django en el entorno virtual
-(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
+(django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
-(py36) django-admin startproject proyecto
+(django2) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
-(py36) pip uninstall django
+(django2) pip uninstall django
 
 # Desactivar el entorno virtual
-(py36) source deactivate
+(django2) source deactivate
 ```
 <a name="linux"></a>
 ### GNU/Linux 
@@ -150,25 +140,29 @@ sh ./script.sh
 source ~/.bashrc
 
 # Crear entorno Conda vacío con Python 3.6
-conda create -n py36 python=3.6
+conda create -n django2 python=3.6
 
 # Activar el entorno virtual
-source activate py36
+source activate django2
 
 # Listar los paquetes instalados en el entorno virtual
-(py36) pip list
+(django2) pip list
+
+# DOWNGRADE A LA VERSIÓN DE CONDA 3.25.3 PARA EVITAR EL BUG DE SQLITE 3.26
+(django2) conda uninstall sqlite
+(django2) conda install sqlite==3.25.3
 
 # Instalar Django en el entorno virtual
-(py36) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
+(django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
 # Crear un proyecto de Django
-(py36) django-admin startproject proyecto
+(django2) django-admin startproject proyecto
 
 # Desinstalar Django del entorno virtual
-(py36) pip uninstall django
+(django2) pip uninstall django
 
 # Desactivar el entorno virtual
-(py36) source deactivate
+(django2) source deactivate
 ```
 
 ## ¿Necesitas un IDE para Python y Django?
