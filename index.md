@@ -29,7 +29,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 # Consultar la versión de Python por defecto
 python -V
 
-# Crear entorno Conda vacío con Python 3.6
+# Crear entorno Conda vacío con Python 3.7
 conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
@@ -59,7 +59,7 @@ activate django2
 # Consultar la versión de Python por defecto
 python -V
 
-# Crear entorno Conda vacío con Python 3.6
+# Crear entorno Conda vacío con Python 3.7
 conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
@@ -99,7 +99,7 @@ sh ./script.sh
 # Inyectar la nueva configuración en el .bash_profile
 source ~/.bash_profile
 
-# Crear entorno Conda vacío con Python 3.6
+# Crear entorno Conda vacío con Python 3.7
 conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
@@ -139,8 +139,8 @@ sh ./script.sh
 # Inyectar la nueva configuración en el .bashrc
 source ~/.bashrc
 
-# Crear entorno Conda vacío con Python 3.6
-conda create -n django2 python=3.6
+# Crear entorno Conda vacío con Python 3.7
+conda create -n django2 python==3.7 sqlite==3.25.3
 
 # Activar el entorno virtual
 source activate django2
