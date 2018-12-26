@@ -72,6 +72,10 @@ activate django2
 # Listar los paquetes instalados en el entorno virtual
 (django2) pip list
 
+# DOWNGRADE A LA VERSIÓN DE CONDA 3.25.3 PARA EVITAR EL BUG DE SQLITE 3.26
+(django2) conda uninstall sqlite
+(django2) conda install sqlite==3.25.3
+
 # Instalar Django en el entorno virtual
 (django2) pip install django  # se puede instalar cualquier versión con django==2.0.2 o la que sea
 
