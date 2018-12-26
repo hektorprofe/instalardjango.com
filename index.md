@@ -10,6 +10,26 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
+<div style="background:lightred;padding:15px;font-size:20px">IMPORTANTE: INSTALAD LA VERSIÓN DE MINICONDA 4.5.4 PARA EVITAR EL RECIENTE BUG DE SQLITE QUE NO DEJA MANEJAR LA BASE DE DATOS, ENLACES AQUÍ:</div>
+<div>
+
+#### Windows
+
+[Miniconda3-4.5.4-Windows-x86.exe](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86.exe)
+[Miniconda3-4.5.4-Windows-x86_64.exe](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86_64.exe)
+
+[Miniconda3-4.5.4-MacOSX-x86_64.pkg](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.pkg)
+[Miniconda3-4.5.4-MacOSX-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-MacOSX-x86_64.sh)
+
+#### Linux
+
+[Miniconda3-4.5.4-Linux-x86.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86.sh)
+[Miniconda3-4.5.4-Linux-x86_64.sh](https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Linux-x86_64.sh)
+
+#### MAC
+
+ </div>
+
 ## Selecciona tu sistema operativo
 
 <div style="text-align:center;">
