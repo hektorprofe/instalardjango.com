@@ -10,7 +10,7 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: DESPUÉS DE CREAR EL ENTORNO VIRTUAL HACED DOWNGRADE A SQLITE 3.25.3 PORQUE LA 3.26 ESTÁ BUGEADA. INSTRUCCIONES DEBAJO DE CADA MÉTODO.</div>
+<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: DESPUÉS DE CREAR EL ENTORNO VIRTUAL HACED DOWNGRADE A SQLITE 3.25.3 PORQUE LA 3.26 ESTÁ BUGEADA. INSTRUCCIONES EN LAS CHULETAS DEBAJO DE CADA MÉTODO.</div>
 
 ## Selecciona tu sistema operativo
 
