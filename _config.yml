@@ -4,7 +4,7 @@ email:       "hola@hektorprofe.net"
 author:      "Hektor Profe."
 description: "Videotutoriales para desarrollar con Django en entornos virtuales. "
 baseurl:     "/"
-url:         "https://www.instalardjango.com"
+# url:         "https://www.instalardjango.com"
 
 # Theme settings
 theme: jekyll-theme-cayman
