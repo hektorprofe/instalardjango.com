@@ -10,8 +10,6 @@ Si tienes algún problema durante la instalación [ábreme un ticket](https://gi
 
 ***NOTA***: *Si dispones de Anaconda no es necesario instalar Miniconda, pues es una versión ligera del mismo programa. Puedes saltarte la instalación e ir directamente al paso de crear el entorno virtual.*
 
-<div style="background:red;color:white;padding:15px;font-size:20px;margin-bottom:15px;">IMPORTANTE: HAY UN BUG CON SQLITE 3.26, HAY QUE CREAR EL ENTORNO DIRECTAMENTE CON LA VERSIÓN 3.25.3 TAL COMO OS PONGO EN LAS CHULETAS.</div>
-
 ## Selecciona tu sistema operativo
 
 <div style="text-align:center;">
